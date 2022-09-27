@@ -29,9 +29,6 @@ sheets or vector fill/strokes.<br>
  <br>
 
 ## Usage
-```shell
-node test
-```
 
 ```js
 import { colorMixer, sortColors, mixSortColors } from './hexSorterNext';
