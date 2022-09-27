@@ -7,20 +7,11 @@
 ![alt text](https://raw.githubusercontent.com/dagthomas/hexSorter/master/images/sorted_hexSorter.png "Sorted Color Array")
 
 ## Installation
-In a browser:
-```html
-<script src="hexSorter.js"></script>
-```
 
-Using npm:
-```shell
-$ npm i --save hexsorter
-```
 
-In Node.js:
 ```js
 // Load the module.
-const hexSorter = require('hexSorter');
+import * as hexSorterNext from './hexSorterNext';
 ```
 
 ## Why hexSorter?
